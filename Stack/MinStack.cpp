@@ -1,7 +1,7 @@
 /*
 ##############################
-MinStack Problem with Extra Space LeetCode 
-https://leetcode.com/problems/min-stack/
+MinStack Problem with Extra Space LeetCode
+[https://leetcode.com/problems/min-stack/](https://leetcode.com/problems/min-stack/)
 ##############################
 */ 
 
@@ -68,7 +68,7 @@ public:
 /*
 ##############################
 MinStack Problem with O(1) Space GeeksforGeeks
-https://practice.geeksforgeeks.org/problems/special-stack/1
+[https://practice.geeksforgeeks.org/problems/special-stack/1](https://practice.geeksforgeeks.org/problems/special-stack/1)
 ##############################
 */ 
 
