@@ -21,7 +21,7 @@ void shortest_distance(vector<vector<int>> &matrix) {
 	{
 		if (matrix[i][i] == -1)
 		{
-			cout << "negative edge";
+			cout << "negative edge cycle detected";
 			return;
 		}
 	}
